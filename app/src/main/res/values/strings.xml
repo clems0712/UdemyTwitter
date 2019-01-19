@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">UdemyTwitter</string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_KEY">XlzsY5SJ0Q7R9EX9R13GiZRPA </string>
+    <string android:name="com.twitter.sdk.android.CONSUMER_SECRET">6A3rxpUsVmmalXIRR2JTidVc8BZy7gdycbYHjj24cOE7Aa7RZ7</string>
+
+</resources>
